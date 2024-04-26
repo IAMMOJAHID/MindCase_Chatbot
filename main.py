@@ -13,7 +13,6 @@ st.write(
     """
     <div>
         <h2 style="text-align: center;">Welcome To MindCase Chatbot</h2>
-        <p style="text-align: center;">Note: We are in developing face</p>
     </div>
     """,
     unsafe_allow_html=True
